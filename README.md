@@ -6,3 +6,4 @@ This project will contain Playwright automation tests.
 
 ## Login Automation
 Login automation will be implemented using Playwright and Pytest.
+Login tests will cover valid and invalid credentials.
